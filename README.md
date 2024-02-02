@@ -20,8 +20,8 @@ I'm an MSCS student at Northeastern University's Roux Institute, with a passion 
 
 ### 🔭 Current Projects
 - A web dashboard for a local non-profit to manage students, instructors, and host lessons and study material.
-- Applying Dijkstra's algorithm to optimize pub crawl routes in downtown Portland, ME.
-- Creating a personalized cryptocurrency database for an in-depth portfolio tracker.
+- Researching the viability of Decentralized Cloud Storage.
+- Developing a game inspired by GeoGuesser for Android and iOS. 
 
 ### 🖥️ Programming Languages
 ![Python](https://github.com/ssloth1/ssloth1/assets/44756947/759b7c79-7f7d-47f5-8b32-1f0d1fcaf728)
