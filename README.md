@@ -20,7 +20,7 @@ I'm an MSCS student at Northeastern University's Roux Institute, with a passion 
 
 ### 🔭 Current Projects
 - A web dashboard for a local non-profit to manage students, instructors, and host lessons and study material.
-- Researching the viability of Decentralized Cloud Storage.
+- Founder of Pledger, where we aim to innovate in philanthropy through secure cryptocurrency donations and blockchain transparency. pledger.pro
 - Developing a game inspired by GeoGuesser for Android and iOS. 
 
 ### 🖥️ Programming Languages
