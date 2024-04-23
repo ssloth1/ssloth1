@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 I'm an MSCS student at Northeastern University's Roux Institute, with a passion for software engineering, Android development, and game development. I'm excited about the intersection of AI and gaming, exploring how artificial intelligence can revolutionize the way we create and experience games.
 
 ### 🔭 Current Projects
-- A web dashboard for a local non-profit to manage students, instructors, and host lessons and study material.
 - Founder of [Pledger](https://pledger.pro), where we aim to innovate in philanthropy through secure cryptocurrency donations and blockchain transparency.
 - Developing a game inspired by GeoGuesser for Android and iOS. 
 
