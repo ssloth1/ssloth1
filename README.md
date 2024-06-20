@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### 🎓 About Me
-I'm an MSCS student at Northeastern University's Roux Institute, with a passion for software engineering, Android development, and game development. I'm excited about the intersection of AI and gaming, exploring how artificial intelligence can revolutionize the way we create and experience games.
+MSCS graduate, with a passion for software engineering, mobile app development, and game development. I'm excited about the intersection of AI and gaming, exploring how artificial intelligence can revolutionize the way we create and experience games.
 
 ### 🔭 Current Projects
 - Founder of [Pledger](https://pledger.pro), where we aim to innovate in philanthropy through secure cryptocurrency donations and blockchain transparency.
-- Developing a game inspired by GeoGuesser for Android and iOS. 
+- Developing a video effects processor for cameras/video cameras and live streaming.
 
 ### 🖥️ Programming Languages
 ![Python](https://github.com/ssloth1/ssloth1/assets/44756947/759b7c79-7f7d-47f5-8b32-1f0d1fcaf728)
