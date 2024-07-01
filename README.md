@@ -60,7 +60,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 #### Cybersecurity Tools
 | Metasploit | Wireshark | Burp Suite | Netcat | Nmap |
 |------------|-----------|------------|--------|------|
-| ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png) | ![Wireshark]([https://img.icons8.com/color/48/000000/wireshark.png](https://icons8.com/icon/rOHcpTUtCTjr/wireshark)) | ![Burp Suite](https://img.icons8.com/color/48/000000/burp-suite.png) | ![Netcat](https://img.icons8.com/color/48/000000/netcat.png) | ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) |
+| ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png) | ![Wireshark](https://icons8.com/icon/rOHcpTUtCTjr/wireshark) | ![Burp Suite](https://img.icons8.com/color/48/000000/burp-suite.png) | ![Netcat](https://img.icons8.com/color/48/000000/netcat.png) | ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) |
 
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
