@@ -32,7 +32,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
-[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssloth1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌐 Development Platforms & Technologies
