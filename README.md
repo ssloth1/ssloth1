@@ -58,9 +58,9 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) | ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png) |
 
 #### Cybersecurity Tools
-| Metasploit | Wireshark | Burp Suite | Netcat | Nmap |
-|------------|-----------|------------|--------|------|
-| ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/color/48/000000/burp-suite.png) | ![Netcat](https://img.icons8.com/color/48/000000/netcat.png) | ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) |
+| Metasploit | Wireshark | Burp Suite | Nmap |
+|------------|-----------|------------|------|
+| ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) |
 
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
