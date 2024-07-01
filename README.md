@@ -48,9 +48,9 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 | ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Blender](https://img.icons8.com/color/48/000000/blender-3d.png) |
 
 #### Frameworks
-| PyTorch | NumPy | Pandas | Scikit-learn | OpenCV | Matplotlib |
-|---------|-------|--------|--------------|--------|------------|
-| ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) |
+| PyTorch | NumPy | Pandas | OpenCV |
+|---------|-------|--------|--------|
+| ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) |
 
 #### Operating Systems
 | Windows | Ubuntu | Kali Linux |
