@@ -29,12 +29,6 @@ I am highly experienced in JavaScript and working with a MERN stack. Although I 
 |---------|-------|---------|---------|--------------|-----------|
 | ![Node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000) | ![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000) | ![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000) | ![Express](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000) | ![Tailwind CSS](https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000) | ![Bootstrap](https://img.icons8.com/?size=100&id=84710&format=png&color=000000) |
 
-#### Game Development
-This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
-| Unreal Engine | Unity | Blender |
-|---------------|-------|---------|
-| ![Unreal Engine](https://img.icons8.com/?size=100&id=34301&format=png&color=000000) | ![Unity](https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000) | ![Blender](https://img.icons8.com/?size=100&id=65231&format=png&color=000000) |
-
 #### Data Science & Machine Learning Libraries
 As a student, these tools have been invaluable to me for their ability to handle large datasets, perform complex numerical computations, and facilitate the development and implementation of machine learning algorithms.
 | PyTorch | NumPy | Pandas | OpenCV |
@@ -46,6 +40,12 @@ Security has become one of my key focus areas. After excelling in an information
 | Metasploit | Wireshark | Burp Suite | Nmap | Kali |
 |------------|-----------|------------|------|------|
 | ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/?size=100&id=101665&format=png&color=000000) |
+
+#### Game Development
+This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
+| Unreal Engine | Unity | Blender |
+|---------------|-------|---------|
+| ![Unreal Engine](https://img.icons8.com/?size=100&id=34301&format=png&color=000000) | ![Unity](https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000) | ![Blender](https://img.icons8.com/?size=100&id=65231&format=png&color=000000) |
 
 
 
