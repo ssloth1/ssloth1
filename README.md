@@ -6,7 +6,9 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 ## 🔭 Current Projects
 - Founder of [Pledger](https://pledger.pro), where we aim to provide a platform for secure cryptocurrency donations to non-profits.
 - Developing a video effects processor for cameras/video cameras and live streaming.
-- Research and developing an algorithm for motion detection on video cameras. 
+- Research and developing an algorithm for motion detection on video cameras.
+
+Connect with me on LinkedIn! [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jimbebarski/)
 
 ## 🖥️ Languages
 | Python | Java | C | JavaScript | MySQL |
@@ -45,8 +47,6 @@ Security has become one of my key focus areas. After excelling in an information
 |------------|-----------|------------|------|------|
 | ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/?size=100&id=101665&format=png&color=000000) |
 
-### 📫 How to Reach Me
-- Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jimbebarski/)
+
 
 
