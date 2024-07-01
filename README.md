@@ -21,35 +21,48 @@ Former legislative aide turned software engineer. After years as a hobbyist, I t
 With graduation fast approaching, I am now seeking a full-time software engineering role!
 
 ### 🔭 Current Projects
-- Founder of [Pledger](https://pledger.pro), where we aim to provide a platfrom for secure cryptocurrency donations to non-profits.
+- Founder of [Pledger](https://pledger.pro), where we aim to provide a platform for secure cryptocurrency donations to non-profits.
 - Developing a video effects processor for cameras/video cameras and live streaming.
-- Research and devloping a algorithm for motion detection on video cameras. 
+- Research and developing an algorithm for motion detection on video cameras. 
 
-### 🖥️ Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+### 🖥️ Languages
+| Language  | Python | Java | C | JavaScript | MySQL |
+|-----------|--------|------|---|------------|-------|
+| Icon      | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
 
 ### 🌐 Development Platforms & Technologies
 
 #### Mobile App Development
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+| Android | Firebase |
+|---------|----------|
+| ![Android](https://img.icons8.com/color/48/000000/android-os.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
 
 #### Web Development Stack
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+| Node.js | React | MongoDB | Express |
+|---------|-------|---------|---------|
+| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) |
 
 #### Game Development
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+| Unreal Engine | Unity | Blender |
+|---------------|-------|---------|
+| ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Blender](https://img.icons8.com/color/48/000000/blender-3d.png) |
+
+#### Frameworks
+| PyTorch | NumPy | Pandas | Scikit-learn | OpenCV | Matplotlib |
+|---------|-------|--------|--------------|--------|------------|
+| ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) |
+
+#### Operating Systems
+| Windows | Ubuntu | Kali Linux |
+|---------|--------|------------|
+| ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) | ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png) |
+
+#### Cybersecurity Tools
+| Metasploit | Wireshark | Burp Suite | Netcat | Nmap |
+|------------|-----------|------------|--------|------|
+| ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png) | ![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png) | ![Burp Suite](https://img.icons8.com/color/48/000000/burp-suite.png) | ![Netcat](https://img.icons8.com/color/48/000000/netcat.png) | ![Nmap](https://img.icons8.com/color/48/000000/nmap.png) |
 
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimbebarski/)
+- LinkedIn: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jimbebarski/)
 
