@@ -1,19 +1,19 @@
-### 🎓 About Me
+## 🎓 About Me
 Former legislative aide turned software engineer. After years as a hobbyist, I took the leap in 2022 and pursued a Master of Science in Computer Science at Northeastern University. My primary interests are in Mobile Application Development, Web Development, and Computer Graphics. 
 
 With graduation fast approaching, I am now seeking a full-time software engineering role!
 
-### 🔭 Current Projects
+## 🔭 Current Projects
 - Founder of [Pledger](https://pledger.pro), where we aim to provide a platform for secure cryptocurrency donations to non-profits.
 - Developing a video effects processor for cameras/video cameras and live streaming.
 - Research and developing an algorithm for motion detection on video cameras. 
 
-### 🖥️ Languages
+## 🖥️ Languages
 | Python | Java | C | JavaScript | MySQL |
 |--------|------|---|------------|-------|
 | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) | ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) |
 
-### 🌐 Development Platforms & Technologies
+## 🌐 Development Platforms & Technologies
 
 #### Mobile App Development
 I specialize in and greatly enjoy mobile application development. I have built many different applications and even published a simple timer application. Additionally, I served as a TA at Northeastern University and helped roll out the mobile application development course at the Portland campus. In that role, I developed a number of tutorials and demo applications.
