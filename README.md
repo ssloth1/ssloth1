@@ -47,9 +47,6 @@ Former legislative aide turned software engineer. After years of being a hobbyis
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-### 👯 Collaboration
-If you're into game development, Android apps, or if you have skills in art, animation, or programming, let's join forces. Together, we can create something extraordinary!
-
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimbebarski/)
