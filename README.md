@@ -13,13 +13,13 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 |--------|------|---|------------|-------|
 | ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) | ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) |
 
-## 🌐 Development Platforms & Technologies
+## 🌐 Development Platforms, Technologies, and Tools
 
 #### Mobile App Development
 I specialize in and greatly enjoy mobile application development. I have built many different applications and even published a simple timer application. Additionally, I served as a TA at Northeastern University and helped roll out the mobile application development course at the Portland campus. In that role, I developed a number of tutorials and demo applications.
-| Android | Firebase |
-|---------|----------|
-| ![Android](https://img.icons8.com/?size=100&id=17836&format=png&color=000000) | ![Firebase](https://img.icons8.com/?size=100&id=62452&format=png&color=000000) |
+| Android | Firebase | Android Studio |
+|---------|----------|----------------|
+| ![Android](https://img.icons8.com/?size=100&id=17836&format=png&color=000000) | ![Firebase](https://img.icons8.com/?size=100&id=62452&format=png&color=000000) | ![Android Studio](https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000)
 
 #### Web Development
 I am highly experienced in JavaScript and working with a MERN stack. Although I am experienced with CSS, I really enjoy using Tailwind CSS. I have built a student dashboard for a local non-profit via the MERN stack, my own personal site, and Pledger.
