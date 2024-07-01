@@ -50,7 +50,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 #### Frameworks
 | PyTorch | NumPy | Pandas | Scikit-learn | OpenCV | Matplotlib |
 |---------|-------|--------|--------------|--------|------------|
-| ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) |
+| ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) | ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) |
 
 #### Operating Systems
 | Windows | Ubuntu | Kali Linux |
