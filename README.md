@@ -25,6 +25,10 @@ Former legislative aide turned software engineer. After years of being a hobbyis
 
 ### 🖥️ Programming Languages
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 ### 🌐 Development Platforms & Technologies
 
