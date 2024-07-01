@@ -31,7 +31,7 @@ I am highly experienced in JavaScript and working with a MERN stack. Although I 
 This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
 | Unreal Engine | Unity | Blender |
 |---------------|-------|---------|
-| ![Unreal Engine](https://img.icons8.com/?size=100&id=34301&format=png&color=000000) | ![Unity](https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000) | ![Blender]() |
+| ![Unreal Engine](https://img.icons8.com/?size=100&id=34301&format=png&color=000000) | ![Unity](https://img.icons8.com/?size=100&id=IPzemd2v4Ubj&format=png&color=000000) | ![Blender](https://img.icons8.com/?size=100&id=65231&format=png&color=000000) |
 
 #### Data Science & Machine Learning Libraries
 As a student, these tools have been invaluable to me for their ability to handle large datasets, perform complex numerical computations, and facilitate the development and implementation of machine learning algorithms.
