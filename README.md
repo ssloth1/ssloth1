@@ -26,9 +26,9 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 - Research and developing an algorithm for motion detection on video cameras. 
 
 ### 🖥️ Languages
-| Language  | Python | Java | C | JavaScript | MySQL |
-|-----------|--------|------|---|------------|-------|
-| Icon      | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
+| Python | Java | C | JavaScript | MySQL |
+|--------|------|---|------------|-------|
+ ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
 
 ### 🌐 Development Platforms & Technologies
 
