@@ -16,18 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### 🎓 About Me
-MSCS graduate, with a passion for software engineering, mobile app development, and game development. I'm excited about the intersection of AI and gaming, exploring how artificial intelligence can revolutionize the way we create and experience games.
+Former legislative aide turned software engineer. After years of being a hobbyist, in 2022 I took the leap and decided to pursue my Master of Science in Computer Science at Northeastern University. Most of my interests lay in Mobile Application Development, Web Development, and Computer Graphics. 
 
 ### 🔭 Current Projects
-- Founder of [Pledger](https://pledger.pro), where we aim to innovate in philanthropy through secure cryptocurrency donations and blockchain transparency.
+- Founder of [Pledger](https://pledger.pro), where we aim to provide a platfrom for secure cryptocurrency donations to non-profits.
 - Developing a video effects processor for cameras/video cameras and live streaming.
+- Research and devloping a algorithm for motion detection on video cameras. 
 
 ### 🖥️ Programming Languages
-![Python](https://github.com/ssloth1/ssloth1/assets/44756947/759b7c79-7f7d-47f5-8b32-1f0d1fcaf728)
-![Java](https://github.com/ssloth1/ssloth1/assets/44756947/d127dee2-ac3a-4c19-ba5b-c2e9c09d6e6b)
-![C++](https://github.com/ssloth1/ssloth1/assets/44756947/9747ae72-cbbd-47e7-bb8c-649af9c8e03c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://github.com/ssloth1/ssloth1/assets/44756947/a466ac00-96fb-4238-92c2-58d1990a09b4)
+![Python](https://img.icons8.com/color/48/000000/python.png)
 
 ### 🌐 Development Platforms & Technologies
 
