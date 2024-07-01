@@ -8,7 +8,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 - Developing a video effects processor for cameras/video cameras and live streaming.
 - Research and developing an algorithm for motion detection on video cameras.
 
-Connect with me on LinkedIn! [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jimbebarski/)
+Connect with me on LinkedIn! [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/jimbebarski/)
 
 ## 🖥️ Languages
 | Python | Java | C | JavaScript | MySQL |
