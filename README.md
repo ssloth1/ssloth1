@@ -42,7 +42,7 @@ I specialize in and greatly enjoy mobile application development.
 I have quite a bit of experience in React and working with a MERN stack.
 | Node.js | React | MongoDB | Express | Tailwind CSS | Bootstrap |
 |---------|-------|---------|---------|--------------|-----------|
-| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) |
+| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Tailwind CSS](https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) |
 
 #### Game Development
 This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
