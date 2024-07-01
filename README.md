@@ -61,9 +61,7 @@ I am highly experienced in JavaScript and working with a MERN stack. Although I 
 | Node.js | React | MongoDB | Express | Tailwind CSS | Bootstrap |
 |---------|-------|---------|---------|--------------|-----------|
 | ![Node.js](https://img.icons8.com/?size=100&id=54087&format=png&color=000000) | ![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000) | ![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000) | ![Express](https://img.icons8.com/?size=100&id=2ZOaTclOq
-| Android | Firebase |
-|---------|----------|
-| ![Android](https://img.icons8.com/color/48/000000/android-os.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
+
 
 #### Web Development
 I am highly experienced in JavaScript and working with a MERN stack. Although I am experienced with CSS, I really enjoy using Tailwind CSS. I have built a student dashboard for a local non-profit via the MERN stack, my own personal site, and Pledger.
