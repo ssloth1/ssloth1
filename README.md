@@ -55,7 +55,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 #### Cybersecurity Tools
 | Metasploit | Wireshark | Burp Suite | Nmap | Kali |
 |------------|-----------|------------|------|------|
-| ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/color/48/000000/kali-linux.png) |
+| ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/?size=100&id=101665&format=png&color=000000) |
 
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
