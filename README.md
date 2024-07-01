@@ -52,11 +52,6 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 |---------|-------|--------|--------|
 | ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) |
 
-#### Operating Systems
-| Windows | Ubuntu | Kali Linux |
-|---------|--------|------------|
-| ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) | ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png) |
-
 #### Cybersecurity Tools
 | Metasploit | Wireshark | Burp Suite | Nmap | Kali |
 |------------|-----------|------------|------|------|
