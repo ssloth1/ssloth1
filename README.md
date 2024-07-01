@@ -11,7 +11,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 ### 🖥️ Languages
 | Python | Java | C | JavaScript | MySQL |
 |--------|------|---|------------|-------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
+| ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) | ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) | ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) | ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) | ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000) |
 
 ### 🌐 Development Platforms & Technologies
 
