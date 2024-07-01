@@ -19,7 +19,7 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 I specialize in and greatly enjoy mobile application development. I have built many different applications and even published a simple timer application. Additionally, I served as a TA at Northeastern University and helped roll out the mobile application development course at the Portland campus. In that role, I developed a number of tutorials and demo applications.
 | Android | Firebase |
 |---------|----------|
-| ![Android](https://img.icons8.com/color/48/000000/android-os.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
+| ![Android](https://img.icons8.com/?size=100&id=17836&format=png&color=000000) | ![Firebase](https://img.icons8.com/?size=100&id=62452&format=png&color=000000) |
 
 #### Web Development
 I am highly experienced in JavaScript and working with a MERN stack. Although I am experienced with CSS, I really enjoy using Tailwind CSS. I have built a student dashboard for a local non-profit via the MERN stack, my own personal site, and Pledger.
