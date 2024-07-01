@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🎓 About Me
-Former legislative aide turned software engineer. After years of being a hobbyist, in 2022 I took the leap and decided to pursue my Master of Science in Computer Science at Northeastern University. Most of my interests lay in Mobile Application Development, Web Development, and Computer Graphics. 
+Former legislative aide turned software engineer. After years as a hobbyist, I took the leap in 2022 and pursued a Master of Science in Computer Science at Northeastern University. My primary interests are in Mobile Application Development, Web Development, and Computer Graphics.
 
 ### 🔭 Current Projects
 - Founder of [Pledger](https://pledger.pro), where we aim to provide a platfrom for secure cryptocurrency donations to non-profits.
