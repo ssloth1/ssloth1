@@ -28,31 +28,35 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 ### 🖥️ Languages
 | Python | Java | C | JavaScript | MySQL |
 |--------|------|---|------------|-------|
- ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
 
 ### 🌐 Development Platforms & Technologies
 
 #### Mobile App Development
+I specialize in and greatly enjoy mobile application development.
 | Android | Firebase |
 |---------|----------|
 | ![Android](https://img.icons8.com/color/48/000000/android-os.png) | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) |
 
-#### Web Development Stack
-| Node.js | React | MongoDB | Express |
-|---------|-------|---------|---------|
-| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) |
+#### Web Development
+I have quite a bit of experience in React and working with a MERN stack.
+| Node.js | React | MongoDB | Express | Tailwind CSS | Bootstrap |
+|---------|-------|---------|---------|--------------|-----------|
+| ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) |
 
 #### Game Development
+This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
 | Unreal Engine | Unity | Blender |
 |---------------|-------|---------|
 | ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) | ![Unity](https://img.icons8.com/color/48/000000/unity.png) | ![Blender](https://img.icons8.com/color/48/000000/blender-3d.png) |
 
-#### Frameworks
+#### Data Science & Machine Learning Libraries
 | PyTorch | NumPy | Pandas | OpenCV |
 |---------|-------|--------|--------|
 | ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) |
 
 #### Cybersecurity Tools
+Security is one of my latest interests. After taking an information assurance class, I have been studying up to get some certifications like CompTIA Security+.
 | Metasploit | Wireshark | Burp Suite | Nmap | Kali |
 |------------|-----------|------------|------|------|
 | ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/?size=100&id=101665&format=png&color=000000) |
@@ -60,4 +64,5 @@ With graduation fast approaching, I am now seeking a full-time software engineer
 ### 📫 How to Reach Me
 - Email: [jamesbebarski@gmail.com](mailto:jamesbebarski@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jimbebarski/)
+
 
