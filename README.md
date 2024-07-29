@@ -31,9 +31,9 @@ I am highly experienced in JavaScript and working with a MERN stack. Although I 
 
 #### Data Science & Machine Learning Libraries
 As a student, these tools have been invaluable to me for their ability to handle large datasets, perform complex numerical computations, and facilitate the development and implementation of machine learning algorithms.
-| PyTorch | NumPy | Pandas | OpenCV |
-|---------|-------|--------|--------|
-| ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) |
+| PyTorch | NumPy | Pandas | OpenCV | Keras |
+|---------|-------|--------|--------|-------|
+| ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) | ![Keras](https://img.icons8.com/?size=100&id=XcSgtbIpgK6W&format=png&color=000000) |
 
 #### Cybersecurity Tools
 Security has become one of my key focus areas. After excelling in an information assurance class, I have been diligently studying to obtain certifications like CompTIA Security+ and actively honing my skills through hands-on experience with advanced tools such as Metasploit, Wireshark, Burp Suite, Nmap, and Kali Linux.
