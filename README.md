@@ -35,12 +35,6 @@ As a student, these tools have been invaluable to me for their ability to handle
 |---------|-------|--------|--------|-------|
 | ![PyTorch](https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000) | ![NumPy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) | ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) | ![OpenCV](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000) | ![Keras](https://img.icons8.com/?size=100&id=XcSgtbIpgK6W&format=png&color=000000) |
 
-#### Cybersecurity Tools
-Security has become one of my key focus areas. After excelling in an information assurance class, I have been diligently studying to obtain certifications like CompTIA Security+ and actively honing my skills through hands-on experience with advanced tools such as Metasploit, Wireshark, Burp Suite, Nmap, and Kali Linux.
-| Metasploit | Wireshark | Burp Suite | Nmap | Kali |
-|------------|-----------|------------|------|------|
-| ![Metasploit](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000) | ![Wireshark](https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000) | ![Burp Suite](https://img.icons8.com/?size=100&id=41078&format=png&color=000000) | ![Nmap](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000) | ![Kali Linux](https://img.icons8.com/?size=100&id=101665&format=png&color=000000) |
-
 #### Game Development
 This is more of an interest, but I have built some basic games in both Unreal and Unity and am learning about 3D modeling with Blender.
 | Unreal Engine | Unity | Blender |
